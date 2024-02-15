@@ -1,0 +1,10 @@
+{
+  "name": "cholick/feature-starter-consumer",
+  "image": "mcr.microsoft.com/devcontainers/base",
+  "customizations": {
+    "codespaces": {}
+  },
+  "features": {
+    "ghcr.io/cholick/feature-starter/hello:latest": {}
+  }
+}
